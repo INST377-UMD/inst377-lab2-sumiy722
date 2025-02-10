@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You!</title>
+</head>
+<body style="background-color: pink; text-align: center; font-family: Arial;">
+  <h1 style="color: purple;">Thank You for Sharing Your Favorite Makeup!</h1>
+  <div>
+    <img src="https://images.ctfassets.net/3s5io6mnxfqz/1HWeixJuA2LjSzAOi30Ehk/d686ff75257e2864f868f3eb9f6578ed/AdobeStock_273553300.jpeg?w=1920" 
+         alt="Beauty and Glamour" style="width: 300px;">
+  </div>
+</body>
+</html>
